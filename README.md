@@ -1,10 +1,5 @@
-### Hi there 👋
+“Life is made up of moments, small pieces of glittering mica in a long stretch of gray cement. It would be wonderful if they came to us unsummoned, but particularly in lives as busy as the ones most of us lead now, that won’t happen. We have to teach ourselves how to make room for them, to love them, and to live, really live.”
 
-
-**blackmonk69/blackmonk69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NASA Y UNSA...
+― Anna Quindlen, A Short Guide to a Happy Life
 
 
